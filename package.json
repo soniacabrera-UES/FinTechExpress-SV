@@ -1,0 +1,16 @@
+{
+  "name": "fintech-express-sv",
+  "version": "2.0.0",
+  "description": "Plataforma de servicios financieros y transferencias P2P - Entorno de Pruebas de Seguridad",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.0",
+    "sqlite3": "5.0.2",
+    "jsonwebtoken": "8.5.1",
+    "body-parser": "1.18.2",
+    "ejs": "3.1.5"
+  }
+}
